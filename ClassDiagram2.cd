@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsFormsAalborgCamping.AboutBoxAalborgCamping" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>AboutBoxAalborgCamping.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.CampGround">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQAAAAASAAAAAAAEAAAAIAAAAAAAA=</HashCode>
+      <FileName>CampGround.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.CampGroundReservationsInfo">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="WindowsFormsAalborgCamping.CampGroundReservationsInfo.BungaLowTypes" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>CampGroundReservationsInfo.cs</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ABACAAAAAAAAAAASAAAAEAQAAAAAAAAAIAACAAAAAAA=</HashCode>
+      <FileName>CampGroundReservationsInfo.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.LargeBungalow">
+    <Position X="5.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LargeBungalow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.LuxuryBungalow">
+    <Position X="0.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LuxuryBungalow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.CampGroundUnit">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAQACAAAAAAABAAAAQQAAAAAAAQAAA=</HashCode>
+      <FileName>CampGroundUnit.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.SmallBungalow">
+    <Position X="2.75" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SmallBungalow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.Pitch">
+    <Position X="7.25" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Pitch.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.Form1" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JQigQAiAESETChAUAACQCBQCgThARggBIgAAQMFBDA0=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.Program" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.Properties.Resources" Collapsed="true">
+    <Position X="13.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsFormsAalborgCamping.Properties.Settings" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
